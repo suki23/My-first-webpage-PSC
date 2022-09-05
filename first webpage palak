@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <h1>My First Webpage</h1>
+    <h2>Palak Chawla</h2>
+    <body>
+        <a href="#"><img src="https://i.kym-cdn.com/entries/icons/original/000/034/772/Untitled-1.png" alt="cat"></a>
+        <div>
+            <p> During the pandemic I spent most of my time watching anime.</p>
+        </div>
+        <h3>Three things I like:</h3>
+        <ul>
+            <li>Anime</li>
+            <li>Dogs</li>
+            <li>Guitar</li>
+        </ul>
+    </body>
+</html>
